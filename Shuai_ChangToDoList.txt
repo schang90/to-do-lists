@@ -1,0 +1,3 @@
+-take 207 at 12:00 pm
+-take 204 at 14:00 pm
+-regishter 203. 
